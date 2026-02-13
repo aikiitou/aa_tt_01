@@ -109,7 +109,7 @@ Material:
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _Direction: 0.06
+    - _Direction: 0.72
     - _Distance: 7.01
     - _DstBlend: 0
     - _DstBlendAlpha: 0
