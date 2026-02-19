@@ -39,7 +39,7 @@ public class CameraController : MonoBehaviour
     {
         // フレーム単位で実行するためUpdateで処理する
         ApplyLook();
-        ChangeCameraMode();
+        //ChangeCameraMode();
     }
 
     private void ApplyLook()
@@ -68,6 +68,6 @@ public class CameraController : MonoBehaviour
         {
             //glovalVolume.profile = VolumeProfile.
         }
-        glovalVolume.profile = cameraMode[cameraModeInput];
+        //glovalVolume.profile = cameraMode[cameraModeInput];
     }
 }
